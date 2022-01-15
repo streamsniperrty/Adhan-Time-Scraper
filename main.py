@@ -58,7 +58,7 @@ while True:
         print("Exiting back to main menu ...")
 
     elif option == "ABOUT":
-        print("Created by Labib Mahmud.\nhttps://labibm.netlify.app")
+        print("AdhanBot prints out the adhan times that you request for.\nIt uses the MuslimPro website to scrape for the information.\nCreated by Labib Mahmud.\nhttps://labibm.netlify.app")
 
     elif option == "EXIT":
         print("Exiting program ...")
